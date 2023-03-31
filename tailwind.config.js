@@ -9,27 +9,28 @@ export default {
       {
         mytheme: {
         
-"primary": "#570DF8",
+"primary": "#95a8ed",
         
-"secondary": "#F000B8",
+"secondary": "#f2e67b",
         
-"accent": "#37CDBE",
+"accent": "#bbb1f9",
         
-"neutral": "#3D4451",
+"neutral": "#1E2225",
         
-"base-100": "#FFFFFF",
+"base-100": "#2D4362",
         
-"info": "#3ABFF8",
+"info": "#91AEF3",
         
-"success": "#36D399",
+"success": "#186242",
         
-"warning": "#FBBD23",
+"warning": "#F0B342",
         
-"error": "#F87272",
+"error": "#F05678",
         },
       },
     ],
   },
+
   plugins: [require("daisyui")],
 }
 
