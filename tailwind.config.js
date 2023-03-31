@@ -8,28 +8,29 @@ export default {
     themes: [
       {
         mytheme: {
-
-          "primary": "#7dbc0f",
-
-          "secondary": "#5ced1e",
-
-          "accent": "#b35afc",
-
-          "neutral": "#1C1E31",
-
-          "base-100": "#FFFFFF",
-
-          "info": "#6995E8",
-
-          "success": "#218C72",
-
-          "warning": "#DEB617",
-
-          "error": "#E7799C",
+        
+"primary": "#a69ae2",
+        
+"secondary": "#08aa74",
+        
+"accent": "#e0849e",
+        
+"neutral": "#262D40",
+        
+"base-100": "#47454A",
+        
+"info": "#258AE9",
+        
+"success": "#21E492",
+        
+"warning": "#9A7D09",
+        
+"error": "#DD2C67",
         },
       },
     ],
   },
+
   plugins: [require("daisyui")],
 }
 
