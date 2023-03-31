@@ -32,7 +32,7 @@ const Main = () => {
     }
 
     return (
-        <div className='container mx-4 md:mx-20'>
+        <div className='mx-4 md:mx-20'>
             <hr className='w-full h-1 mb-8'></hr>
             <div className='grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-6'>
                 <div className=''>

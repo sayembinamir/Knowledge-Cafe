@@ -2,12 +2,11 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBookmark } from '@fortawesome/free-solid-svg-icons'
 
-
-const Blog = (props) =>
-{
-    const { imgCover, personName, personProfile, title, date, readTime } = props.blog;
-
-
+const Blog = (props) => {
+    const {imgCover, personName, personProfile, title, date, readTime} = props.blog;
+    const handleAddToBookmarked = props.handleAddToBookmarked;
+    const addReadTime = props.addReadTime;
+    
     return (
         <div>
             <img className='w-full mb-8 rounded-lg' src={imgCover} alt="" />
