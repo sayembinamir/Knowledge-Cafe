@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "imgCover": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1506&q=80",
+        "personName": "Kate Vastola",
+        "personProfile": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "title": "Data Science and Machine Learning : A Self-Study Roadmap",
+        "date": "April 14 (5 days ago)",
+        "readTime": 20
+    },
+    {
+        "id": 2,
+        "imgCover": "https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?w=740&t=st=1680196065~exp=1680196665~hmac=f7bbc88bd49e20a10a33894b4cb76b7774569a8c7463c52bf834cbb51944365f",
+        "personName": "Dr. Roi Yehoshua",
+        "personProfile": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "title": "How to Become a Good Backend Engineer",
+        "date": "Mar 10 (3 days ago)",
+        "readTime": 35
+    },
+    {
+        "id": 3,
+        "imgCover": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1680196157~exp=1680196757~hmac=839f252cab0955a36443dd3e92930cc1b3f4be0e29ed50f06b7822b5a6f7669f",
+        "personName": "Patrick Brus",
+        "personProfile": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=399&q=80",
+        "title": "Why You Should Learn Machine Learning Engineering and Not Data Science",
+        "date": "Apr 25 (2 days ago)",
+        "readTime": 10
+    },
+    {
+        "id": 4,
+        "imgCover": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "personName": "Matt Chapman",
+        "personProfile": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "title": "The portfolio that got me a Data Scientist job",
+        "date": "Feb 11 (1 days ago)",
+        "readTime": 25
+    }
+]
